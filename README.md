@@ -100,19 +100,11 @@ How It Works:
 
 Output:
 <img width="411" height="221" alt="image" src="https://github.com/user-attachments/assets/a3bc9020-0b1a-43dc-ad09-559c126e8407" />
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="415" height="234" alt="image" src="https://github.com/user-attachments/assets/802aba2f-a687-4cac-8468-968b589e7c47" />
+<img width="415" height="234" alt="image" src="https://github.com/user-attachments/assets/f898bc5f-984a-4c44-83d4-9b27b81a2534" />
+<img width="415" height="234" alt="image" src="https://github.com/user-attachments/assets/f4f4baca-8567-4177-8656-3067b9e7050e" />
+<img width="415" height="234" alt="image" src="https://github.com/user-attachments/assets/12ef4abc-9ee1-4c50-abb0-53dea53c8b55" />
+<img width="415" height="234" alt="image" src="https://github.com/user-attachments/assets/5ce9159f-cf51-4588-84a4-a1012f4befc6" />
 
 
 
